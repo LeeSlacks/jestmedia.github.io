@@ -1,0 +1,9 @@
+#nav {
+	position: fixed;	/* Take it out of the flow of the document */
+	left: 0;		/* Left edge at left for now */
+	right: 0;		/* Right edge at right for now, so full width */ 
+	margin: auto;		/* Center it */
+	z-index: 10;		/* Whatever needed to force to front (1 might do) */
+	top: 0px;
+
+(leave width and height as is)
